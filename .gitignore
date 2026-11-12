@@ -11,6 +11,7 @@ __pycache__/
 
 # 本地编译产物（源文件是 报告.qmd）
 报告.pdf
+实践1+*.pdf
 报告.html
 报告.tex
 报告_files/
